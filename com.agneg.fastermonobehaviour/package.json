@@ -1,0 +1,20 @@
+{
+ "name": "com.agneg.fastermonobehaviour",
+ "displayName": "Faster MonoBehaviour",
+ "version": "0.1.0",
+ "unity": "6000.4",
+ "licensesUrl": "Pending",
+ "author": {
+  "name": "Edward Newton",
+  "email": "aguynamededwardgames@gmail.com",
+  "url": "https://github.com/aguynamededward"
+ },
+ "description": "A simple framework for optimizing and controlling your update loops on a per-script basis.",
+ "dependencies": {
+ },
+ "keywords": [
+  "Utility",
+  "Optimization",
+  "Framework"
+ ]
+}
